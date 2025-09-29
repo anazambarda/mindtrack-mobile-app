@@ -1,16 +1,13 @@
-# meu_primeiro_app
+# 🧠 MindTrack Mobile
 
-A new Flutter project.
+Aplicativo Flutter para acompanhamento de saúde mental.  
+Com ele você pode realizar testes rápidos (baseados no SRQ-20), visualizar seus resultados e acompanhar a evolução ao longo do tempo em um **dashboard interativo**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Funcionalidades
+- Tela de **Login** e **Cadastro de usuário**  
+- Teste baseado no **SRQ-20** com 20 perguntas  
+- Resultado classificado em **Sem**, **Leve**, **Moderado** ou **Grave**, com cores diferentes  
+- **Dashboard** com histórico de resultados e gráfico de evolução  
+- Layout colorido e responsivo 
